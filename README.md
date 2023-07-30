@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karla-ac22 and I'm a software engineering student.
-- 👀 I’m interested in bioinformatics, UI/UX design, web design and development.
+- 👀 I’m interested in web design, UI/UX design, Scrum and research.
 - 🌱 I’m currently learning a little of everything, mainly web dev.
 - 💞️ 
 - 📫 You can visit me on:
